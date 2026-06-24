@@ -1,0 +1,195 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_copy.json",
+  "type" : "Manifest",
+  "rights" : "http://rightsstatements.org/vocab/InC/1.0/",
+  "behavior" : [ "individuals" ],
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "en" : [ "Provided courtesy of Center for the Art of East Asia, UChicago" ]
+    }
+  },
+  "summary" : {
+    "en" : [ "This is a summary of the objects of DCADP by Liang." ]
+  },
+  "label" : {
+    "en" : [ "Liang's Manifest" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Anne Artist (1776-1824)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Author" ]
+    },
+    "value" : {
+      "en" : [ "Liang" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "These are the two murals at the Guangsheng Temple. Currently, one is in the Nelson-Atkins Museum and another one in the MET." ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/750y7nyniqq-mqs8yfpu",
+    "type" : "Canvas",
+    "height" : 2857,
+    "width" : 3840,
+    "label" : {
+      "en" : [ "page 1" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Location" ]
+      },
+      "value" : {
+        "en" : [ "Nelson Atkins Museum" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.archive.org/image/iiif/2/oa-nel-32-91-1.tiff%2fOA-NEL-32-91-1.tiff.jpg/full/480,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 357,
+      "width" : 480
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/750y7nyniqq-mqs8yfpu/annotation-page/pr95hosiq5p-mqs8yfpu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/annotation/ztv791cjf2-mqs8yfpt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/750y7nyniqq-mqs8yfpu",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/oa-nel-32-91-1.tiff%2fOA-NEL-32-91-1.tiff.jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2857,
+          "width" : 3840,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/oa-nel-32-91-1.tiff%2fOA-NEL-32-91-1.tiff.jpg",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 3840,
+            "height" : 2857,
+            "sizes" : [ {
+              "width" : 120,
+              "height" : 89
+            }, {
+              "width" : 240,
+              "height" : 179
+            }, {
+              "width" : 480,
+              "height" : 357
+            }, {
+              "width" : 960,
+              "height" : 714
+            }, {
+              "width" : 1920,
+              "height" : 1429
+            }, {
+              "width" : 3840,
+              "height" : 2857
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 10970880,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/zj3ggdmbuec-mqs93l8x",
+    "type" : "Canvas",
+    "height" : 1508,
+    "width" : 1905,
+    "label" : {
+      "en" : [ "page 2" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "Location" ]
+      },
+      "value" : {
+        "en" : [ "MET" ]
+      }
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://iiif.archive.org/image/iiif/2/met-65-29-2%2fMET-65-29-2.jpg/full/476,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 377,
+      "width" : 476
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/zj3ggdmbuec-mqs93l8x/annotation-page/qg0qiqrpdyb-mqs93l8x",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/annotation/nh8434ghdyq-mqs93l8x",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h2hc8ao7hxv-mqs8mwwi/canvas/zj3ggdmbuec-mqs93l8x",
+        "body" : {
+          "id" : "https://iiif.archive.org/image/iiif/2/met-65-29-2%2fMET-65-29-2.jpg/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1508,
+          "width" : 1905,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/met-65-29-2%2fMET-65-29-2.jpg",
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 1905,
+            "height" : 1508,
+            "sizes" : [ {
+              "width" : 119,
+              "height" : 94
+            }, {
+              "width" : 238,
+              "height" : 189
+            }, {
+              "width" : 476,
+              "height" : 377
+            }, {
+              "width" : 953,
+              "height" : 754
+            }, {
+              "width" : 1905,
+              "height" : 1508
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ]
+            } ],
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2872740,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
