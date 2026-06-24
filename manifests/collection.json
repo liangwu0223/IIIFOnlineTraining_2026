@@ -1,0 +1,15 @@
+{
+  "id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in liangwu0223/IIIFOnlineTraining_2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_copy.json",
+    "label" : {
+      "en" : [ "Liang's Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
