@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/225e8a3e8b0a60b76b5839ad1e2a5685.json" ],
+  "otherContent" : [ "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/225e8a3e8b0a60b76b5839ad1e2a5685.json", "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/b0b9933d1c1acf12f7ba2a9a0ca097b7.json" ],
   "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/collection.json",
   "label" : "All annotations loaded in liangwu0223/IIIFOnlineTraining_2026 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
