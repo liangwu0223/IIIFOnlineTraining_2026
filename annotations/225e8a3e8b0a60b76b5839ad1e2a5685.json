@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nobles Annotation 1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "A standing male figure wearing a tall blue-black official's hat with decorative red trim, a white long-sleeved robe with red collar, and a belt from which hangs a green scabbard decorated with a gold dragon motif; he holds his hands clasped at chest level and wears black shoes."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-26T01:17:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782436632689",
+    "dcterms:modified" : "2026-06-26T01:31:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=15682,236,648,1563"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M15681.69663,235.9005h324.01v0h324.01v781.25793v781.25793h-324.01h-324.01v-781.25793z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_33db7c99-40ed-4b03-a790-cff632d753dc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"56.8645\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/o0oh02h58l-mqu0lspp"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nobles Annotation 3",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "## Transcription\n\n右唐陳閎畫八公像用筆談色衣冠鞶帶\n與後時同平其事為唐華也需宣和畫\n譜開元中閎常家多入內閣御容稱\n百後又鳴蕭宗像皆極神妙時韓熙載\n善畫此謂其法因令卬之其崇\n重如此惟八像不當而謂名人羅結長\n孫萬崔宏與高頴公等皆北魏人神瑞\n初詔宏與南平公萬等生上車門\n右聽閎撫世猶八公並唐時尚有\n其像閎得世而攀進之耶今尚\n像傳世絕少予所見者惟奏對\n實像及此耳此卷前後鉗縫\n有宣政小寶王盖是秘府之物\n也\n萬曆己卯仲夏七日\n茂苑文嘉題\n[two red seals]\n\n---\n\n**Romanization (Mandarin, abbreviated):** *Yòu Táng Chén Hóng huà bā gōng xiàng… Wànlì jǐmǎo zhòngxià qīrì, Màoyuàn Wén Jiā tí.*\n\n**Gloss:** A colophon by Wen Jia (文嘉), dated the 7th day of the 5th month, Wanli *jǐmǎo* year, discussing Chen Hong's Tang-dynasty painting of eight noble officials, noting its stylistic qualities, its record in the *Xuanhe Huapu*, and the rarity of surviving works by Chen Hong."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-26T01:16:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782436609071",
+    "dcterms:modified" : "2026-06-26T01:32:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6461,99,3373,1687"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6460.74579,98.80056h1686.38272v0h1686.38272v843.40344v843.40344h-1686.38272h-1686.38272v-843.40344z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e5958a4b-3bb1-4939-8128-302f486c556a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"56.8645\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/o0oh02h58l-mqu0lspp"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nobles Annotation 2",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "A bearded male figure in elaborate armored dress stands in a three-quarter pose, wearing a fantastical helmet with red and green decorative elements, blue-gray armor with red trim, and colorful lower garments with pendant ornaments; he holds an object at chest level with his right hand."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-26T01:17:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782436621163",
+    "dcterms:modified" : "2026-06-26T01:31:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=12622,322,626,1487"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M12622.08032,322.17594h312.92254v0h312.92254v743.67272v743.67272h-312.92254h-312.92254v-743.67272z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d50a5621-aaa4-4d00-9850-9e9a8fa716db\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"56.8645\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/o0oh02h58l-mqu0lspp"
+    } ]
+  } ],
+  "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/225e8a3e8b0a60b76b5839ad1e2a5685.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
