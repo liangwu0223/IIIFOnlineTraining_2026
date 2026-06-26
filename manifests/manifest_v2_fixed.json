@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2_fixed.json",
   "@type" : "sc:Manifest",
-  "label" : "East Asian Scroll Prototype - Liang's IIIF ver.2",
+  "label" : "East Asian Scroll Prototype - Liang's IIIF ver.2_fixed",
   "metadata" : [ {
     "label" : "Copyright",
     "value" : "Center for the Art of East Asia, University of Chicago"
