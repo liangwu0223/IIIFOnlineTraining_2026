@@ -1,0 +1,270 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 1</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426704192",
+    "dcterms:modified" : "2026-06-26T01:31:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=29089,9,265,991"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M29089.03846,999.57294h132.41843v0h132.41843v-495.2548v-495.2548h-132.41843h-132.41843v495.2548z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a7f79408-6bdd-41e9-9a59-6e09a102f664\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.43137\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 7",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 7</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:32:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426752604",
+    "dcterms:modified" : "2026-06-26T01:31:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=8009,409,860,2660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8009.0479,409.45096h430.19474v0h430.19474v1329.99775v1329.99775h-430.19474h-430.19474v-1329.99775z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5640b644-53d1-4a14-8eb0-8d3b37ae2ab0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"129.90234\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 6",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 6</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426718847",
+    "dcterms:modified" : "2026-06-26T01:31:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=13045,1155,856,906"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13901.27045,1154.89446h-428.19474v0h-428.19474v452.78394v452.78394h428.19474h428.19474v-452.78394z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2d47e028-a1b4-41eb-ae68-4c60b274e4d1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 5",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 5</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426685029",
+    "dcterms:modified" : "2026-06-26T01:31:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=23077,1018,1085,1760"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M23077.44209,1017.69962h542.53455v0h542.53455v880.14395v880.14395h-542.53455h-542.53455v-880.14395z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0d897257-b10a-47d3-85c6-653759b216fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 1</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426694611",
+    "dcterms:modified" : "2026-06-26T01:30:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=29861,57,179,2571"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M29861.35184,56.98561h89.36756v0h89.36756v1285.7284v1285.7284h-89.36756h-89.36756v-1285.7284z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b8bf0a32-414d-409c-bd45-c9139732796b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"67.45098\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 8",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 8</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:32:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426732120",
+    "dcterms:modified" : "2026-06-26T01:31:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2529,229,1286,2660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3814.98702,228.73739h-642.79211v0h-642.79211v1329.99775v1329.99775h642.79211h642.79211v-1329.99775z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_38afc2d0-97c2-491b-8ff8-619733a04c13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"129.90234\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 3",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 3</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426663270",
+    "dcterms:modified" : "2026-06-26T01:31:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=26305,591,658,2052"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M26305.20338,591.17718h328.81176v0h328.81176v1025.95812v1025.95812h-328.81176h-328.81176v-1025.95812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4f1699af-c49d-409e-bf3c-e9ad605d6964\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.52916\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 4",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Court Ladies Annotation 4</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426675569",
+    "dcterms:modified" : "2026-06-26T01:31:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=24355,1693,355,908"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M24355.37299,1692.91843h177.73512v0h177.73512v454.16698v454.16698h-177.73512h-177.73512v-454.16698z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ba5876ad-62e1-4347-bc77-5aca7d2116ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  } ],
+  "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/fc41784755ea4a82b65eeee0cc7f339a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
