@@ -1,0 +1,270 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "**Transcription:**\n大水草峯\n張萱搗練圖\n\n**Romanization (Mandarin pinyin):**\nDà shuǐ cǎo fēng / Zhāng Xuān dǎo liàn tú\n\n**Gloss:**\n\"[Collection seal: Da Shui Cao Feng] / *Picture of Zhang Xuan's Pounding and Preparing Silk*\" — a title label identifying the handscroll as a work attributed to the Tang painter Zhang Xuan."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426704192",
+    "dcterms:modified" : "2026-06-26T01:31:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=29089,9,265,991"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M29089.03846,999.57294h132.41843v0h132.41843v-495.2548v-495.2548h-132.41843h-132.41843v495.2548z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a7f79408-6bdd-41e9-9a59-6e09a102f664\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.43137\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 7",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "**Transcription:**\n\n右宣和臨張萱搗練圖明昌以郡望題\n戴敦之七璽盖亦變之深乃知嬀母之\n姿亦有勁其驛者何邵齊郡張紳\n\n**Romanization (Pinyin):**\nYòu Xuānhé lín Zhāng Xuān dǎoliàn tú, Míngchāng yǐ jùn wàng tí / Dài Dūn zhī qī xǐ, gài yì biàn zhī shēn, nǎi zhī Guī mǔ zhī / zī yì yǒu jìng, qí yì zhě hé? Shào Qí jùn Zhāng Shēn.\n\n**Gloss:**\nA colophon noting that this is a Xuanhe-period copy after Zhang Xuan's *Silk-Beaters* painting, inscribed under the Mingchang reign title with seven imperial seals, followed by reflective remarks on the figures' vigor, signed by Zhang Shen of Shaoqi Commandery."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:32:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426752604",
+    "dcterms:modified" : "2026-06-26T01:31:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=8009,409,860,2660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8009.0479,409.45096h430.19474v0h430.19474v1329.99775v1329.99775h-430.19474h-430.19474v-1329.99775z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5640b644-53d1-4a14-8eb0-8d3b37ae2ab0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"129.90234\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 6",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "**Transcription (seal script / zhuanshu):**\n四庫全書薈要\n\n**Romanization:**\nSì Kù Quán Shū Huì Yào\n\n**Gloss:**\nImperial seal of the *Siku Quanshu Huiyao* (\"Essential Compendium of the Complete Library of the Four Treasuries\"), a Qianlong-era imperial collection."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426718847",
+    "dcterms:modified" : "2026-06-26T01:31:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=13045,1155,856,906"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M13901.27045,1154.89446h-428.19474v0h-428.19474v452.78394v452.78394h428.19474h428.19474v-452.78394z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2d47e028-a1b4-41eb-ae68-4c60b274e4d1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 5",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "A seated female figure in an elaborate pale pink patterned robe with red sash details raises one hand in a delicate gesture; her black hair is elaborately dressed with a decorative hairpin, and she sits on a dark lacquered stool with a green cushion."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426685029",
+    "dcterms:modified" : "2026-06-26T01:31:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=23077,1018,1085,1760"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M23077.44209,1017.69962h542.53455v0h542.53455v880.14395v880.14395h-542.53455h-542.53455v-880.14395z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0d897257-b10a-47d3-85c6-653759b216fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 1",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "**Transcription:**\n宋徽宗摹張萱搗練圖真蹟\n金章宗題\n髙江邨清吟堂秘藏\n\n**Romanization:**\nSòng Huīzōng mó Zhāng Xuān Dǎoliàn tú zhēnjī / Jīn Zhāngzōng tí / Gāo Jiāngcūn Qīngyíntáng mìcáng\n\n**Gloss:**\n\"Authentic work: Emperor Huizong of Song copying Zhang Xuan's *Pounding Silk*; inscribed by Emperor Zhangzong of Jin; secretly preserved in Gao Jiangcun's Qingyin Studio.\""
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426694611",
+    "dcterms:modified" : "2026-06-26T01:30:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=29861,57,179,2571"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M29861.35184,56.98561h89.36756v0h89.36756v1285.7284v1285.7284h-89.36756h-89.36756v-1285.7284z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b8bf0a32-414d-409c-bd45-c9139732796b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"67.45098\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 8",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "## Transcription\n\n宋徽宗摹唐萱摠練圖老見松氣老人畫縹窠親五錦幕如新大彼\n色明昌墨書標範者張紳一彼與丑召遷高江郡收藏前題記彼\n再題彼畫者珍極而江郡鏈不截此老者鏡夏録刻花題康詞\n兩年彼復立廣縣己邱年夏鏡夏録列成后八年所溺前懸宗\n迄去家岱嘗行巧閨雅義絕倫必堂和可列政嘗匯堂祈巧圖見鏡\n夏録中江郡流藏者嘗灣精奉則孝畫者某精墨畫礎于知\n又明名書宣和瘦金書惟堂和仰題益圖：各丙仁口明昌書圖子\n丙以亇監兩知見研此雅志亦異一逕也先諸戊戌間月羅[seal]識\n\n**Romanization (pinyin, approximate):**\nSòng Huīzōng mó Táng Xuān zǒng liàn tú lǎo jiàn sōng qì lǎo rén huà piāo kē qīn wǔ jǐn mù rú xīn dà bǐ…\n\n**Gloss:**\nA colophon recording that Emperor Huizong of Song copied a Tang dynasty silk-weaving figure composition, with notes on connoisseurship, provenance, collectors, and inscriptions including a reference to the *Slender Gold* calligraphy style and the Ming-Chang era seals."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:32:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426732120",
+    "dcterms:modified" : "2026-06-26T01:31:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2529,229,1286,2660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3814.98702,228.73739h-642.79211v0h-642.79211v1329.99775v1329.99775h642.79211h642.79211v-1329.99775z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_38afc2d0-97c2-491b-8ff8-619733a04c13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"129.90234\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 3",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "A woman in a pink upper garment and blue skirt leans against a tall wooden post, her right hand resting on it and her left arm hanging loosely at her side; her hair is dressed in a high bun with ornaments, and a small blue floral mark is visible on her forehead."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426663270",
+    "dcterms:modified" : "2026-06-26T01:31:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=26305,591,658,2052"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M26305.20338,591.17718h328.81176v0h328.81176v1025.95812v1025.95812h-328.81176h-328.81176v-1025.95812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4f1699af-c49d-409e-bf3c-e9ad605d6964\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.52916\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Court Ladies Annotation 4",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "The crop shows a tall, slender bronze incense stand (or lamp stand) with an ornately decorated domed base featuring scrollwork and floral patterns in gilt, a long cylindrical shaft, and a small red ribbon or cord tied near the top. The background is divided into a tan/ochre upper section and a pale turquoise-green lower section."
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/163204373",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-06-25T22:31:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1782426675569",
+    "dcterms:modified" : "2026-06-26T01:31:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=24355,1693,355,908"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M24355.37299,1692.91843h177.73512v0h177.73512v454.16698v454.16698h-177.73512h-177.73512v-454.16698z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ba5876ad-62e1-4347-bc77-5aca7d2116ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"75.17496\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+    } ]
+  } ],
+  "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/fc41784755ea4a82b65eeee0cc7f339a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
