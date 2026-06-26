@@ -31,5 +31,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2_fixed.json",
     "label" : "East Asian Scroll Prototype - Liang's IIIF ver.2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2_editted.json",
+    "label" : "East Asian Scroll Prototype - Liang's IIIF ver.2"
   } ]
 }
