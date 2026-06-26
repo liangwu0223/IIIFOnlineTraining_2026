@@ -1,0 +1,209 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/manifests/manifest_v2_fixed.json",
+  "@type" : "sc:Manifest",
+  "label" : "East Asian Scroll Prototype - Liang's IIIF ver.2",
+  "metadata" : [ {
+    "label" : "Copyright",
+    "value" : "Center for the Art of East Asia, University of Chicago"
+  } ],
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1",
+      "@type" : "sc:Canvas",
+      "height" : 3127,
+      "width" : 38528,
+      "label" : "Court Ladies Preparing newly Woven Silk",
+      "metadata" : [ {
+        "label" : "Current Location",
+        "value" : "Museum of Fine Arts Boston"
+      }, {
+        "label" : "Provenance",
+        "value" : "12th century, Emperor Huizong, Song dynasty; 1126, taken to Manchuria upon defeat of Northern Song by the Jurchens; passed to Emperor Zhangzong (1168–1208), Jin dynasty; by 1697, Gao Shiqi (1645–1704), Qing dynasty; first half of 19th century, Jin Futing, Shanghai; 1898, Luo Wenbin; May 1912, sold in Beijing to Okakura Kakuzo for the MFA"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archive.org/image/iiif/2/728339_202606%2f728339.tif/full/1204,/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 98,
+        "width" : 1204
+      },
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/728339_202606%2f728339.tif/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3127,
+          "width" : 38528,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/728339_202606%2f728339.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "width" : 38528,
+            "height" : 3127,
+            "sizes" : [ {
+              "width" : 1204,
+              "height" : 98
+            }, {
+              "width" : 2408,
+              "height" : 195
+            }, {
+              "width" : 4816,
+              "height" : 391
+            }, {
+              "width" : 9632,
+              "height" : 782
+            }, {
+              "width" : 19264,
+              "height" : 1564
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ]
+          }
+        },
+        "on" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/pir9qd0a2o-mqu0l8b1"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/fc41784755ea4a82b65eeee0cc7f339a.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Court Ladies Preparing newly Woven Silk Annotations"
+      } ]
+    }, {
+      "@id" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/o0oh02h58l-mqu0lspp",
+      "@type" : "sc:Canvas",
+      "height" : 1925,
+      "width" : 18045,
+      "label" : "Eight Noble Officials",
+      "metadata" : [ {
+        "label" : "Current Location",
+        "value" : "Nelson-Atkins Museum of Art"
+      }, {
+        "label" : "Provenance",
+        "value" : "Arthur B. Rothwell (1906–1994), New York, by 1949; purchased from Rothwell by The Nelson-Atkins Museum of Art, Kansas City, MO, 1949"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archive.org/image/iiif/2/7140350%2f7140350.tif/full/1128,/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 120,
+        "width" : 1128
+      },
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/7140350%2f7140350.tif/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 1925,
+          "width" : 18045,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/7140350%2f7140350.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "width" : 18045,
+            "height" : 1925,
+            "sizes" : [ {
+              "width" : 1128,
+              "height" : 120
+            }, {
+              "width" : 2256,
+              "height" : 241
+            }, {
+              "width" : 4511,
+              "height" : 481
+            }, {
+              "width" : 9023,
+              "height" : 963
+            }, {
+              "width" : 18045,
+              "height" : 1925
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ]
+            } ]
+          }
+        },
+        "on" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/o0oh02h58l-mqu0lspp"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/225e8a3e8b0a60b76b5839ad1e2a5685.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Eight Noble Officials annotations"
+      } ]
+    }, {
+      "@id" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/frntumjfz3-mqu0myl3",
+      "@type" : "sc:Canvas",
+      "height" : 1087,
+      "width" : 36529,
+      "label" : "Sumiyoshi Monogatari",
+      "metadata" : [ {
+        "label" : "Current Location",
+        "value" : "Art Institute of Chicago"
+      }, {
+        "label" : "Provenance",
+        "value" : "Gift of Robert Allerton, 1961"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://iiif.archive.org/image/iiif/2/7140357%2f7140357.tif/full/2283,/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "height" : 68,
+        "width" : 2283
+      },
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/image/iiif/2/7140357%2f7140357.tif/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 1087,
+          "width" : 36529,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/image/iiif/2/7140357%2f7140357.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "width" : 36529,
+            "height" : 1087,
+            "sizes" : [ {
+              "width" : 2283,
+              "height" : 68
+            }, {
+              "width" : 4566,
+              "height" : 136
+            }, {
+              "width" : 9132,
+              "height" : 272
+            }, {
+              "width" : 18265,
+              "height" : 544
+            }, {
+              "width" : 36529,
+              "height" : 1087
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "height" : 512,
+              "scaleFactors" : [ 1, 2, 4, 8, 16 ]
+            } ]
+          }
+        },
+        "on" : "https://example.org/7jues8chf9x-mqu0kwco/canvas/frntumjfz3-mqu0myl3"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://liangwu0223.github.io/IIIFOnlineTraining_2026/annotations/b0b9933d1c1acf12f7ba2a9a0ca097b7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    } ]
+  } ]
+}
